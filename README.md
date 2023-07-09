@@ -1,12 +1,20 @@
+
 # Medical Abstract Segmentation
+
+<div style='float:left;'>
+  <img href='' src='https://img.shields.io/badge/Maintained%3F-Yes-brightgreen.svg' style='margin-right:10px;'>
+  <img href='https://www.python.org/' src='https://img.shields.io/badge/Made with-Python-blue' style='margin-right:10px;'>
+  <img href='https://choosealicense.com/licenses/mit/' src='https://img.shields.io/badge/LICENSE-MIT-green' style='margin-right:10px'>
+  <img href='https://github.com/MatthewJansen/Medical-Abstract-Segmentation' src='https://img.shields.io/github/stars/MatthewJansen/Medical-Abstract-Segmentation?style=social' style='margin-right:10px'>
+  <img href='https://github.com/MatthewJansen/Medical-Abstract-Segmentation/fork' src='https://img.shields.io/github/forks/MatthewJansen/Medical-Abstract-Segmentation?style=social' style='margin-right:10px'>
+  <img href='https://github.com/MatthewJansen/Medical-Abstract-Segmentation' src='https://img.shields.io/github/watchers/MatthewJansen/Medical-Abstract-Segmentation?style=social' style='margin-right:10px'>  
+</div>
+
 
 <center>
     <img src="https://i.postimg.cc/BZmFrknh/Medical-Abstract-Segmentation.png" 
          alt ="Medical-Abstract-Segmentation" 
-         style='width: 600px;'>
-    <figcaption>
-            Image by <a href='https://www.kaggle.com/matthewjansen'>Author</a>
-    </figcaption>
+         style='width: 50%;'>
 </center>
 
 ## Overview
