@@ -29,6 +29,18 @@ The NLP model architecture used in this notebook is inspired by this paper title
 > - *Dataset paper*: [PubMed 200k RCT: a Dataset for Sequential Sentence Classification in Medical Abstracts](https://arxiv.org/abs/1710.06071)
 > - *Model architecture paper*: [Neural Networks for Joint Sentence Classification in Medical Paper Abstracts](https://arxiv.org/abs/1612.05251)
 
+## Dataset: PubMed 200k RCT
+
+The dataset is available on GitHub, see the link attached below to access the dataset.
+
+GitHub Source: https://github.com/Franck-Dernoncourt/pubmed-rct
+
+### Using the Kaggle version of the dataset
+I have uploaded the dataset here on Kaggle to make it more accessible for notebook usage.
+
+Here's the link to the Kaggle dataset: [PubMed 200k RCT](https://kaggle.com/datasets/666f37e9e9a1c3d1e6c4b9882dd23c25c722c58b490e20fd65adcd611688ef80)
+
+Note that this version includes <code>.csv</code> versions of the original dataset.
 
 ## Requirements
 
